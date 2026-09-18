@@ -1,0 +1,6 @@
+{
+  "name": "LocalPulse AI",
+  "description": "U.S. ZIP code business scanner quantifying missed revenue from missing AI automation, with lead qualification and automated outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
